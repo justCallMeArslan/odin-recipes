@@ -10,4 +10,4 @@ https://tengrinews.kz/recipes/beshbarmak-sekret-idealnogo-testa-565351/ - pictur
 https://dolphinsonline.gr/projects/qazaqstan-land_of_wanderers/ - interactive map of Qazaqstan 
 
 
-https://justcallmearslan.github.io/odin-recipes/ - link to  online version hosted by GitHub
+TBA - link to  online version hosted by GitHub
